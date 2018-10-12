@@ -1,2 +1,2 @@
 # www.bitwormhole.com
-比特虫孔的网站
+比特虫洞项目的官方网站
